@@ -38,7 +38,7 @@
           <target>17</target>
                  <version>3.9.9</version>
         </configuration>
-               <warName>webapp</warName>
+               <finalName>webapp</finalName>
       </plugin>
 
       <plugin>
