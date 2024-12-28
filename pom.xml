@@ -30,6 +30,7 @@
   </distributionManagement>
 
   <build>
+           <finalName>webapp</finalName>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
@@ -38,7 +39,6 @@
           <target>17</target>
                  <version>3.9.9</version>
         </configuration>
-               <finalName>webapp</finalName>
       </plugin>
 
       <plugin>
